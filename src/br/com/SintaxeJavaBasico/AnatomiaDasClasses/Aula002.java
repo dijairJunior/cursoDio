@@ -1,4 +1,4 @@
-package br.com.SintaxeJava.AnatomiaDasClasses;
+package br.com.SintaxeJavaBasico.AnatomiaDasClasses;
 
 public class Aula002 {
     public static void main(String[] args) {
