@@ -17,12 +17,19 @@ public class Tipos {
         float pi = 3.14F;
         double salario = 2500.00;
 
-        short numeroCurto = 1;
-        int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroCurto;
+        System.out.println(idade);
+        System.out.println(ano);
+        System.out.println(cep);
+        System.out.println(cpf);
+        System.out.println(salario);
+        System.out.println(pi);
 
-        String soma = String.valueOf(numeroNormal + numeroCurto2);
-        System.out.println(soma);
+        //short numeroCurto = 1;
+        //int numeroNormal = numeroCurto;
+        //short numeroCurto2 = (short) numeroCurto;
+
+        //String soma = String.valueOf(numeroNormal + numeroCurto2);
+        //System.out.println(soma);
 
         int numero = 5;
         numero = 10;
