@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="feat: inclusao dos tipos primitivos" />
+    <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="feat: inclusao dos tipos primitivos">
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="operadores" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,10 +53,11 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.Aula001.executor": "Run",
+    "Application.Operadores.executor": "Run",
     "Application.Tipos.executor": "Run",
     "Application.primeiroPrograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "estudos",
+    "git-widget-placeholder": "operadores",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -87,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715785411177</updated>
-      <workItem from="1715785412201" duration="3425000" />
+      <workItem from="1715785412201" duration="4574000" />
     </task>
     <task id="LOCAL-00001" summary="add curse the DIO">
       <option name="closed" value="true" />
@@ -113,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715788938736</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: inclusao dos tipos primitivos">
+      <option name="closed" value="true" />
+      <created>1715789045343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715789045343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: inclusao dos tipos primitivos">
+      <option name="closed" value="true" />
+      <created>1715789156389</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715789156389</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +150,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="estudos" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
