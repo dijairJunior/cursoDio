@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="feat: inclusao dos tipos primitivos">
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" afterDir="false" />
+    <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="add info">
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/operadores_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/operadores_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,23 +33,25 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dijairJunior"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dijairJunior&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dijairJunior/cursoDio.git",
-    "accountId": "82ca19f5-b44d-47ec-b605-728492c39ad6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dijairJunior/cursoDio.git&quot;,
+    &quot;accountId&quot;: &quot;82ca19f5-b44d-47ec-b605-728492c39ad6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gVatDV6YIpPEnYiYAZHeVrebZC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +61,12 @@
     "Application.App.executor": "Run",
     "Application.Aula001.executor": "Run",
     "Application.Operadores.executor": "Run",
+    "Application.Operadores_3.executor": "Run",
+    "Application.Operadores_4.executor": "Run",
+    "Application.Operadores_7.executor": "Run",
     "Application.Tipos.executor": "Run",
+    "Application.operadores_5.executor": "Run",
+    "Application.operadores_6.executor": "Run",
     "Application.primeiroPrograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "operadores",
@@ -91,7 +103,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715785411177</updated>
-      <workItem from="1715785412201" duration="4574000" />
+      <workItem from="1715785412201" duration="5134000" />
+      <workItem from="1716209704882" duration="3404000" />
     </task>
     <task id="LOCAL-00001" summary="add curse the DIO">
       <option name="closed" value="true" />
@@ -133,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715789156389</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add info">
+      <option name="closed" value="true" />
+      <created>1715790524334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715790524335</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +187,8 @@
     <MESSAGE value="add curse the DIO" />
     <MESSAGE value="add" />
     <MESSAGE value="feat: inclusao dos tipos primitivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: inclusao dos tipos primitivos" />
+    <MESSAGE value="add info" />
+    <option name="LAST_COMMIT_MESSAGE" value="add info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

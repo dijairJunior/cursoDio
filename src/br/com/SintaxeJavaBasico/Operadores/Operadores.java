@@ -1,5 +1,7 @@
 package br.com.SintaxeJavaBasico.Operadores;
 
+import java.util.Date;
+
 public class Operadores {
     public static void main(String[] args) {
 
@@ -41,5 +43,21 @@ public class Operadores {
 
         concatenacao = "1"+(1+1+1);
         System.out.println(concatenacao);
+
+
+        // Classe operadores
+        String nome = "Junior Camargo";
+        int idade = 22;
+        double peso = 67.7;
+        char sexo = 'M';
+        boolean doadorOrgao = false;
+        Date dataNascimento = new Date();
+
+        System.out.println("O meu nome é: " + nome
+                + " tenho " + idade
+                + " meu peso é " + peso
+                + " sou do sexo " + sexo
+                + " eu nao sou doador de orgao " + doadorOrgao
+                + " e á data de hoje é: " + dataNascimento);
     }
 }
