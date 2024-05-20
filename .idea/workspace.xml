@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="add info">
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/operadores_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/operadores_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Execicio/Smart_TV/Smart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/Execicio/Smart_TV/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +61,12 @@
     "Application.Operadores_4.executor": "Run",
     "Application.Operadores_7.executor": "Run",
     "Application.Tipos.executor": "Run",
+    "Application.Usuario.executor": "Run",
     "Application.operadores_5.executor": "Run",
     "Application.operadores_6.executor": "Run",
     "Application.primeiroPrograma.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "operadores",
+    "git-widget-placeholder": "Execicio",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
