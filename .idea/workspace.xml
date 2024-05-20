@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="add info">
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/operadores_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/operadores_6.java" afterDir="false" />
+    <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="end of operator module">
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Metodo/Metodo_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/Operadores/Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,31 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Aula001.executor": "Run",
-    "Application.Operadores.executor": "Run",
-    "Application.Operadores_3.executor": "Run",
-    "Application.Operadores_4.executor": "Run",
-    "Application.Operadores_7.executor": "Run",
-    "Application.Tipos.executor": "Run",
-    "Application.operadores_5.executor": "Run",
-    "Application.operadores_6.executor": "Run",
-    "Application.primeiroPrograma.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "operadores",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/dijair.camargo/Documents/GitHub/cursoDio/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operadores_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operadores_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operadores_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tipos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operadores_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operadores_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeiroPrograma.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Metodos&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dijair.camargo/Documents/GitHub/cursoDio/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dijair.camargo\Documents\GitHub\cursoDio\src\br\com\SintaxeJava\AnatomiaDasClasses" />
@@ -104,7 +99,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715785411177</updated>
       <workItem from="1715785412201" duration="5134000" />
-      <workItem from="1716209704882" duration="3404000" />
+      <workItem from="1716209704882" duration="3792000" />
+      <workItem from="1716213658414" duration="836000" />
     </task>
     <task id="LOCAL-00001" summary="add curse the DIO">
       <option name="closed" value="true" />
@@ -154,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715790524335</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="end of operator module">
+      <option name="closed" value="true" />
+      <created>1716213534111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716213534112</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +192,8 @@
     <MESSAGE value="add" />
     <MESSAGE value="feat: inclusao dos tipos primitivos" />
     <MESSAGE value="add info" />
-    <option name="LAST_COMMIT_MESSAGE" value="add info" />
+    <MESSAGE value="end of operator module" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of operator module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
