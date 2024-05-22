@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e833d905-ced4-4630-8f0e-f74c629bde6e" name="Changes" comment="end of operator module">
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/javaDOC/Claculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/javaDOC/Comentarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/SintaxeJavaBasico/TerminalArgumentos/MinhaClasse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,31 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operadores.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operadores_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operadores_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operadores_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tipos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operadores_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.operadores_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeiroPrograma.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/dijair.camargo/Documents/GitHub/cursoDio/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Aula001.executor": "Run",
+    "Application.Operadores.executor": "Run",
+    "Application.Operadores_3.executor": "Run",
+    "Application.Operadores_4.executor": "Run",
+    "Application.Operadores_7.executor": "Run",
+    "Application.Tipos.executor": "Run",
+    "Application.operadores_5.executor": "Run",
+    "Application.operadores_6.executor": "Run",
+    "Application.primeiroPrograma.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "algoritimo",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/dijair.camargo/Documents/GitHub/cursoDio/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dijair.camargo\Documents\GitHub\cursoDio\src\br\com\SintaxeJava\AnatomiaDasClasses" />
@@ -102,7 +101,7 @@
       <workItem from="1715785412201" duration="5134000" />
       <workItem from="1716209704882" duration="3792000" />
       <workItem from="1716213658414" duration="836000" />
-      <workItem from="1716381198206" duration="862000" />
+      <workItem from="1716381198206" duration="1974000" />
     </task>
     <task id="LOCAL-00001" summary="add curse the DIO">
       <option name="closed" value="true" />
